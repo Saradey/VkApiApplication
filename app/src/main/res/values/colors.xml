@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0097a7</color>
+    <color name="colorPrimaryDark">#006575</color>
+    <color name="colorAccent">#0097a7</color>
+
+
+    <!-- цвет для иконок</item>-->
+    <color name="colorIcon">#a1a6a9</color>
+    <!-- цвет для не активных иконок</item>-->
+    <color name="colorIconDis">#c4cbd1</color>
+    <!-- цвет для нразделителя</item>-->
+    <color name="colorDivider">#1f000000</color>
+
+
+    <color name="colorDefaultWhite">#f5f5f5</color>
+    <color name="colorIcon2">#a9aeb1</color>
+
+    <!-- colorPrimary используется для тулбара</item>-->
+    <!-- colorPrimaryDark для статус бара</item>-->
+    <!-- colorAccent для сплавающей кнопки</item>-->
+
+
+</resources>
